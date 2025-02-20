@@ -1,4 +1,4 @@
-```markdown
+
 # Chat Client com Spring AI e Google Gemini
 
 Este projeto é um aplicativo Chat Client simples utilizando **Spring AI** integrado ao **Google Gemini**, um poderoso modelo de linguagem do Google. O objetivo é fornecer uma interface de comunicação inteligente e eficiente, aproveitando a flexibilidade do **Spring Framework**.
