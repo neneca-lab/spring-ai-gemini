@@ -26,7 +26,7 @@ public class SimpleChatService {
                     .call()
                     .content();
 
-
+            responseText = responseText.replace("\n", " ");
             AssistantMessage assistantMessage = new AssistantMessage(responseText);
             Generation generation = new Generation(assistantMessage);
 
